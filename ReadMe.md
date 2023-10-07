@@ -2,9 +2,13 @@
 
 >上班进度条，提醒你当前上班进度
 
+## 下载地址
+exe下载:[蓝奏云](https://wwde.lanzouj.com/izghA1aqjkeb) 密码:9vcf
+视频演示：[哔哩哔哩](https://www.bilibili.com/video/BV1vw411w7s5/?share_source=copy_web&vd_source=31ed8bce8b402e158ab66a8191e45770)
+
 ## 基础用法
 
-软件第一次启动会提示设置上下班时间，设置好以后，屏幕的 Top 会有一条 `1mm`宽的进度条，当进度条走完后，会弹出 **Dialog** 提示你关机下班。
+软件第一次启动会提示设置上下班时间，设置好以后，屏幕的 Top 会有一条 `1mm`高的进度条，当进度条走完后，会弹出 **Dialog** 提示你关机下班。
 
 ## 高级用法
 
